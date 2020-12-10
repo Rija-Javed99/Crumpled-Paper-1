@@ -1,2 +1,1 @@
-# Crumpled-Paper-1
-Project 24
+# CrumpledPaper
